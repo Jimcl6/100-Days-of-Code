@@ -1,3 +1,6 @@
 Learning about:
   - Styling the anchor element w/ Pseudo Hover.
   - Learned why it's called Cascading Style Sheets
+  - Learned about Void Elements, and that these elements do not  need to have content within them, but rather attributes.
+  - Learned about using CSS Selectors (ID Selector)
+  - Learned to use Google Fonts.
